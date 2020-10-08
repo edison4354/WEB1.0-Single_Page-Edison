@@ -107,7 +107,7 @@ nav ul a:hover {
     margin: 1rem;
 }
 
-#wendy-carlos {
+#about {
     background-color: #5856D6;
     background-image: url(images/carlos-0.jpg);
     background-size: cover;
@@ -116,14 +116,14 @@ nav ul a:hover {
     align-items: center;
 }
 
-#wendy-carlos > div {
+#about > div {
     background-color:rgba(255, 255, 255, 0.65);
     padding: 2em;
     width: 75%;
     max-width: 700px;
 }
 
-#wendy-carlos  h2 {
+#about  h2 {
     font-size: 4em;
     margin: 0 0 1rem 0;
     text-align: center;
@@ -146,24 +146,24 @@ nav ul a:hover {
     margin: auto;
 }
 
-#suzanne-ciani h2, #suzanne-ciani p {
+#map h2, #map p {
     margin: 0 0 1rem 0;
 }
 
-#suzanne-ciani h2 {
+#map h2 {
     font-size: 2em;
 }
 
-#suzanne-ciani > div > div:nth-child(1) {
+#map > div > div:nth-child(1) {
     flex: 3;
     margin: 0 2em 0 0;
 }
 
-#suzanne-ciani > div > div:nth-child(2) {
+#map > div > div:nth-child(2) {
     flex: 2;
 }
 
-#suzanne-ciani > div img {
+#map > div img {
     width: 100%;
     box-shadow:0 0 22px rgba(0, 0, 0, 0.44);
 }
